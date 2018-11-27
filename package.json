@@ -1,6 +1,7 @@
 {
-  "name": "xmlhttp-request",
+  "name": "getstream-xmlhttp-request",
   "version": "0.4.0",
+  "main": "index.js",
   "author": {
     "name": "Matthisk Heimensen",
     "email": "m@tthisk.nl"
@@ -12,10 +13,10 @@
     "browser",
     "browserify"
   ],
-  "homepage": "http://github.com/matthisk/xmlhttp-request",
+  "homepage": "http://github.com/GetStream/xmlhttp-request",
   "repository": {
     "type": "git",
-    "url": "git://github.com/matthisk/xmlhttp-request"
+    "url": "git://github.com/GetStream/xmlhttp-request"
   },
   "scripts": {
     "test": "beefy test.js"
